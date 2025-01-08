@@ -1,2 +1,2 @@
-# threadcount_f
-GPU thread count function
+# threadCount [C++]
+A GPU thread count function for CUDA-enabled devices.
